@@ -1,4 +1,4 @@
-# learn-jenkins
+# learn-jenkins自动化构建尝试
 
 ## Project setup
 ```
